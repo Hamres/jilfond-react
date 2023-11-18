@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/jilfond-react/static/css/main.2cf54219.css",
-    "main.js": "/jilfond-react/static/js/main.38492708.js",
+    "main.css": "/jilfond-react/static/css/main.70eebf60.css",
+    "main.js": "/jilfond-react/static/js/main.13eb5f84.js",
     "index.html": "/jilfond-react/index.html",
-    "main.2cf54219.css.map": "/jilfond-react/static/css/main.2cf54219.css.map",
-    "main.38492708.js.map": "/jilfond-react/static/js/main.38492708.js.map"
+    "main.70eebf60.css.map": "/jilfond-react/static/css/main.70eebf60.css.map",
+    "main.13eb5f84.js.map": "/jilfond-react/static/js/main.13eb5f84.js.map"
   },
   "entrypoints": [
-    "static/css/main.2cf54219.css",
-    "static/js/main.38492708.js"
+    "static/css/main.70eebf60.css",
+    "static/js/main.13eb5f84.js"
   ]
 }
