@@ -1,0 +1,51 @@
+.layout {
+  display: flex;
+  width: 291px;
+  height: 575px;
+  background-color: #FDFDFD;
+  border-radius: 10px 0 0 10px;
+  box-shadow: (0 0 10px rgba(0, 0, 0, 0.1));
+
+  .sidebar {
+    display: flex;
+    flex-direction: column;
+    padding: 0 0 0 25px;
+    width: 291px;
+    height: 100%;
+    background-color: #FDFDFD;
+    border-radius: 10px 0 0 10px ;
+
+    .sidebareInput {
+      display: flex;
+      width: 240px;
+    }
+
+    span {
+      font-size: 16px;
+      font-weight: 600;
+      margin-top: 25px;
+      color: #333333;
+    }
+
+    .loader {
+      display: flex;
+      justify-content: center;
+      margin-top: 10px;
+    }
+
+    .sidebarResult {
+      margin-top: 18px;
+      height: 100%;
+      overflow-y: auto;
+      overflow-x: hidden;
+
+      span {
+        font-size: 14px;
+        color: #76787D;
+        font-weight: 400;
+      }
+    }
+  }
+}
+
+

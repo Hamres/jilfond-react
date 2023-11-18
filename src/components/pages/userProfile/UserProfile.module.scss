@@ -1,0 +1,74 @@
+.profileContainer {
+  width: 975px;
+  border-left: 1px solid #DEDEDD;
+  border-radius: 0 10px 10px 0;
+  display: flex;
+  background-color: #FDFDFD;
+
+
+  .image {
+    margin-top: 30px;
+    margin-left: 21px;
+    width: 424px;
+    height: 286px;
+    border: 1px solid #E0E0E0;
+  }
+
+  .description {
+    padding-right: 30px;
+    margin-top: 30px;
+    margin-left: 61px;
+    display: flex;
+    flex-direction: column;
+
+    div {
+      margin-top: 10px;
+    }
+
+    h3 {
+      font-size: 16px;
+      font-weight: 600;
+    }
+
+    .name {
+      font-size: 16px;
+      font-weight: 600;
+      color: #000;
+    }
+
+    .email {
+      font-size: 14px;
+      font-weight: 600;
+      color: #333333;
+    }
+
+    .emailText {
+      font-size: 14px;
+      font-weight: 400;
+      color: #76787D;
+    }
+
+    .phone {
+      font-size: 14px;
+      font-weight: 600;
+      color: #333333;
+    }
+
+    .phoneText {
+      font-size: 14px;
+      font-weight: 400;
+      color: #76787D;
+    }
+
+    .about {
+      margin-top: 20px;
+    }
+
+    .aboutText {
+      margin-top: 25px;
+      font-size: 14px;
+      font-weight: 400;
+      color: #76787D;
+    }
+  }
+}
