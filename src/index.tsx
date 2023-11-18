@@ -10,12 +10,10 @@ const root = ReactDOM.createRoot(
   document.getElementById('root') as HTMLElement
 );
 root.render(
-  <BrowserRouter>
-    <StrictMode>
+  <BrowserRouter basename='/jilfond-react/'>
       <Provider store={store}>
         <App />
       </Provider>
-    </StrictMode>
   </BrowserRouter>
 );
 
